@@ -1,16 +1,22 @@
-## Hi there 👋
+# Привет, я Роман! 👋
 
-<!--
-**Roman20-titanfall/Roman20-titanfall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Немного обо мне
 
-Here are some ideas to get you started:
+Я — начинающий разработчик, увлечённый созданием качественного и удобного программного обеспечения.  
+Интересуюсь веб-разработкой, машинным обучением и автоматизацией.  
+Имею техническое образование и продолжаю учиться каждый день. В свободное время люблю играть в игры, учиться новому.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Навыки и технологии
+
+- Языки программирования:  **C++**
+- Веб-технологии: HTML5, CSS3, React, Node.js
+- Работа с базами данных: PostgreSQL, MongoDB
+- Инструменты и платформы: Git, Docker, Linux, GitHub Actions
+- Дополнительно: REST API, Flask, FastAPI, Pandas, NumPy
+
+## 🔗 Дополнительные ссылки
+
+- 🌐 [Моё портфолио](https://example.com)
+- 📂 [Проекты на GitHub](https://github.com/Roman20-titanfall)
+- ✉️ [Почта](mailto:kapatblch@list.ru)
+
